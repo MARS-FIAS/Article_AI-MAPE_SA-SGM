@@ -4,7 +4,7 @@
 
 **_Preprint_ Article Link** [_ARXIV_]
 
-[https://arxiv.org/abs/2407.10938](https://arxiv.org/abs/2407.10938)
+[https://doi.org/10.48550/arXiv.2407.10938](https://doi.org/10.48550/arXiv.2407.10938)
 
 __Partial Data Bank Link__
 
