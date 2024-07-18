@@ -22,7 +22,7 @@ All the code files are under the folder *Script_Bank*. The subfolder *Analysis* 
 The data sets must be uncompressed, extracted, and placed under the corresponding subfolders of *Data_Bank*. Please use the data set placement guidelines as described over the following section.
 
 > [!WARNING]
-> The simulation data bank is not available from this GitHub repository. Use the links provided at the beginning of this *README* file. Please note, the complete (uncompressed) data bank is around 50 GBs.
+> The simulation-inference data bank is not available from this GitHub repository. Use the links provided at the beginning of this *README* file. Please note, the complete (uncompressed) data bank is around 50 GBs.
 
 ----
 
